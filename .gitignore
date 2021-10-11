@@ -24,14 +24,14 @@
 hs_err_pid*
 
 #Mod por mi
-bin/
+/bin/
 .classspath
 git/
 .gitatributes
 .gradle/
 .project
 .settings/
-gradle/
+/gradle/
 HELP.md
 README.md
 settings.gradle
